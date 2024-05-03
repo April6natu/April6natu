@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @April6natu
 - 👀 I’m interested in ...learning new things and enhancing my skills
-- 🌱 I’m currently learning ...C/C++/C#, (HTML,CSS,JS) Python,PhP,MySql_cmdlineClient
+- 🌱 I’m currently learning ...C/C++/C#, (HTML,CSS,JS),Java,Python,PhP,MySQL,MySql_cmdlineClient
 - 💞️ I’m looking to collaborate on ...group projects and Hackathon
 - 📫 How to reach me ... inyumatamba2016@gmail.com or WA/TG= +250791204298
 
